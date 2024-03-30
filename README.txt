@@ -1,32 +1,9 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+The repository consists of the code that has been written for my website .
+I have used HTML and integrated CSS along with it to showcase the projects that I have developed and to know me if anyone wants to.
+My website consists of 3 projects which are 
+*Data visualisation using PowerBi* 
+*Exploratory data analysis using Pandas*
+*Data analysis using SQL*
 
+One can visit the website to know more about my projects and can contact me if required.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
